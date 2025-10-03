@@ -1,1 +1,1 @@
-# Szoftvertesztel-s
+# Szoftvertesztelés
